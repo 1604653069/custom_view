@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.xlkj.custom_view.view.WattingView
+        android:id="@+id/shape_view"
+        android:layout_width="20dp"
+        android:layout_height="20dp"/>
+    <View
+        android:id="@+id/shape_shadow"
+        android:background="@drawable/watting_shape_shadow"
+        android:layout_marginTop="50dp"
+        android:layout_width="20dp"
+        android:layout_height="3dp"/>
+    <TextView
+        android:layout_marginTop="3dp"
+        android:text="玩命加载中..."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

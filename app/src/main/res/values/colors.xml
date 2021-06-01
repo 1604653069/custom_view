@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="radarGridColor">#CCC</color>
+    <color name="radarLineColor">#CCC</color>
+    <color name="circleColor">#CCC</color>
+    <color name="layerColor">#03DAC5</color>
+    <color name="radarTextColor">#CCC</color>
+</resources>
